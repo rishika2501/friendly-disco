@@ -1,1 +1,2 @@
 aaaj mera github command thik se kaam nhi kr rha h
+commit krne ke baad use hota h unstaging wla sara command
