@@ -1,3 +1,0 @@
-This is version 01 of my project.
-I have planned to learn git this week.
-Hope that I will be successful in my journey.
